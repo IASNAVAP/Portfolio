@@ -147,7 +147,6 @@ export const TextLoop = styled.div`
 
 export const Span = styled.span`
   color: ${({ theme }) => theme.primary};
-  cursor: pointer;
 `;
 
 export const SubTitle = styled.div`
